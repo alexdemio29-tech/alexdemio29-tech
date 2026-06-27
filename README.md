@@ -1,4 +1,4 @@
-# Hi there! I'm Alex Adundo 👋
+# Hi there! I'm Alex Ochieng👋
 
 Professional **AI Training Specialist** and **Chemical Engineering** graduate transitioning into **Computer Science & IT**. I specialize in high-fidelity data annotation, RLHF, and technical data verification.
 
